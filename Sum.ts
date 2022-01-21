@@ -7,4 +7,4 @@ var number1 = 10;
 var number2 = 7.5;
 
 var result = sum(number1,number2);
-console.log(result);
+console.log("the sume is" +result);
